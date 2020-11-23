@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<chnProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" programName="testFile" debugMode="true">
+  <mSystemConfig>
+    <ResulutionWidth>1920</ResulutionWidth>
+    <ResulutionHight>1080</ResulutionHight>
+    <fullscreen>true</fullscreen>
+    <alwayOnTop>false</alwayOnTop>
+    <ScreenSaverTime>1800</ScreenSaverTime>
+    <ScreenSaver>2</ScreenSaver>
+    <fontSize>1</fontSize>
+  </mSystemConfig>
+</chnProjectConfig>

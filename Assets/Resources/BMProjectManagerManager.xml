@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<chnProjectConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" programName="BMProjectManagerManager" debugMode="true">
+  <mSystemConfig>
+    <resolutionWidth>1920</resolutionWidth>
+    <resolutionHeight>1080</resolutionHeight>
+    <fullScreenMode>true</fullScreenMode>
+    <alwayOnTopEnable>false</alwayOnTopEnable>
+    <usingKey>true</usingKey>
+    <screenSaverTimer>1800</screenSaverTimer>
+    <screenSaverEnable>2</screenSaverEnable>
+    <fontSize>1</fontSize>
+    <fontColor>black</fontColor>
+    <COMPortUse>false</COMPortUse>
+  </mSystemConfig>
+  <mCOMPortConfig>
+    <COMPortName>COM7</COMPortName>
+    <COMPortSpeed>9600</COMPortSpeed>
+  </mCOMPortConfig>
+</chnProjectConfig>
